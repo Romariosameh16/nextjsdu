@@ -49,11 +49,7 @@ export default function Header1({ scroll, isMobileMenu, handleMobileMenu, isSear
 >
   Get in Touch
 </Link>
-							<div className="burger-icon burger-icon-white border rounded-3" onClick={handleMobileMenu}>
-								<span className="burger-icon-top" />
-								<span className="burger-icon-mid" />
-								<span className="burger-icon-bottom" />
-							</div>
+							
 						</div>
 					</div>
 				</nav>

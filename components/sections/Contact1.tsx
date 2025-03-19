@@ -12,7 +12,7 @@ export default function Contact1() {
 							<h5 className="ds-5 mt-3 mb-3 text-white">Thinking about a project? Get in touch with us.</h5>
 							<span className="fs-5 fw-medium text-white">Please let us know if you have a question, want to leave <br className="d-none d-lg-block" />
 								a comment, or would like further information about <br className="d-none d-lg-block" />
-								Infinia System</span>
+								Dubai System</span>
 							<div className="d-flex pt-6 pb-3 align-items-center">
 								<div className="bg-white-keep icon-flip position-relative icon-shape icon-xxl rounded-3">
 									<div className="icon">

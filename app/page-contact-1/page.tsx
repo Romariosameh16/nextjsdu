@@ -162,7 +162,7 @@ export default function PageContact1() {
 								<span className="fs-5 fw-medium text-white">Please let us know if you have a question, want to leave
 a comment, or would like further information about
 our process <br className="d-none d-lg-block" />
-									Infinia System</span>
+									Dubai System</span>
 								<div className="d-flex pt-6 pb-3 align-items-center">
 									<div className="bg-white-keep icon-flip position-relative icon-shape icon-xxl rounded-3">
 										<div className="icon">

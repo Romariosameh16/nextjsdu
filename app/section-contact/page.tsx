@@ -543,7 +543,7 @@ export default function SectionContact() {
 									</div>
 									<h6>Help  support</h6>
 									<p className="text-500">
-										Email <span className="text-900">support@alithemes.com</span> For <br />
+										Email <span className="text-900">support@Dubai & Flip.com</span> For <br />
 										help with a current product or <br />
 										service or refer to FAQs and developer tools
 									</p>
